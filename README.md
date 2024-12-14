@@ -30,7 +30,7 @@ simplified-twitter/
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simplified-twitter.git
+   git clone https://github.com/RichardVu3/simplified-twitter.git
    cd simplified-twitter/simplified-twitter
    ```
 
